@@ -3,7 +3,7 @@ import Head from "next/head";
 
 import { Input } from "../components/Form/Input";
 
-export default function Home() {
+export default function SignIn() {
   return (
     <>
       <Head>
